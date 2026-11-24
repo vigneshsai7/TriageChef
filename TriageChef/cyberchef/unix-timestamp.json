@@ -1,0 +1,11 @@
+{
+  "recipe": [
+    {
+      "op": "From UNIX Timestamp",
+      "args": [
+        "Seconds"
+      ]
+    }
+  ],
+  "note": "Paste suspicious string as input in CyberChef. See docs/CYBERCHEF.md"
+}

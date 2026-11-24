@@ -1,0 +1,9 @@
+{
+  "recipe": [
+    {
+      "op": "JWT Decode",
+      "args": []
+    }
+  ],
+  "note": "Paste suspicious string as input in CyberChef. See docs/CYBERCHEF.md"
+}

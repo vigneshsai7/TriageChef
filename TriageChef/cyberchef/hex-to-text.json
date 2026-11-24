@@ -1,0 +1,17 @@
+{
+  "recipe": [
+    {
+      "op": "From Hex",
+      "args": [
+        "Auto"
+      ]
+    },
+    {
+      "op": "Decode text",
+      "args": [
+        "UTF-8"
+      ]
+    }
+  ],
+  "note": "Paste suspicious string as input in CyberChef. See docs/CYBERCHEF.md"
+}

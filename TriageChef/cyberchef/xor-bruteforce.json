@@ -1,0 +1,20 @@
+{
+  "recipe": [
+    {
+      "op": "XOR Brute Force",
+      "args": [
+        1,
+        {
+          "option": "Printable",
+          "string": ""
+        },
+        true,
+        true,
+        false,
+        "",
+        false
+      ]
+    }
+  ],
+  "note": "Paste suspicious string as input in CyberChef. See docs/CYBERCHEF.md"
+}

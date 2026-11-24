@@ -1,0 +1,18 @@
+{
+  "recipe": [
+    {
+      "op": "From Base64",
+      "args": [
+        "A-Za-z0-9+/=",
+        "false"
+      ]
+    },
+    {
+      "op": "Decode text",
+      "args": [
+        "UTF-16LE (1200)"
+      ]
+    }
+  ],
+  "note": "Paste suspicious string as input in CyberChef. See docs/CYBERCHEF.md"
+}

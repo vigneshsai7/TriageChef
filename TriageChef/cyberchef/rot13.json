@@ -1,0 +1,14 @@
+{
+  "recipe": [
+    {
+      "op": "ROT13",
+      "args": [
+        true,
+        true,
+        false,
+        13
+      ]
+    }
+  ],
+  "note": "Paste suspicious string as input in CyberChef. See docs/CYBERCHEF.md"
+}

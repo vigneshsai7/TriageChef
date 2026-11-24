@@ -1,0 +1,16 @@
+{
+  "recipe": [
+    {
+      "op": "Magic",
+      "args": [
+        3,
+        true,
+        false,
+        true,
+        true,
+        false
+      ]
+    }
+  ],
+  "note": "Paste suspicious string as input in CyberChef. See docs/CYBERCHEF.md"
+}
